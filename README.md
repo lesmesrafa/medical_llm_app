@@ -1,19 +1,16 @@
-# data science template based on kedro_tutorial template
+# LLM-based Application for Medical Terminology
 
 ## Overview
 
-This is your new Kedro project for the [spaceflights tutorial](https://docs.kedro.org/en/stable/tutorial/spaceflights_tutorial.html), which was generated using `Kedro 0.18.14`.
+The LLM-based Application for Medical Terminology is a cutting-edge software tool **designed to enhance the comprehension** and utilization **of** medical terminology by **students**🎓. By using the capabilities of Large Language Models (LLMs), this application aims to provide **real-time insights**🕛, **translations**🈳🔤, and **explanations**🧑‍🏫 of complex **medical terms** and concepts. By **integrating advanced natural language processing (NLP) techniques**, the application facilitates a more intuitive understanding of medical language🏥🔤, thereby improving the educational outcomes in the medical field.
 
-Take a look at the [Kedro documentation](https://docs.kedro.org) to get started.
+Discharge of responsibility: Do not use this if you are sick, better go to a doctor :)
 
-## Rules and guidelines
+## Objective
 
-In order to get the best out of the template:
 
-* Don't remove any lines from the `.gitignore` file we provide
-* Make sure your results can be reproduced by following a [data engineering convention](https://docs.kedro.org/en/stable/faq/faq.html#what-is-data-engineering-convention)
-* Don't commit data to your repository
-* Don't commit any credentials or your local configuration to your repository. Keep all your credentials and local configuration in `conf/local/`
+The primary aim of the LLM-based Application for Medical Terminology is to significantly enhance understanding by assisting healthcare professionals and students in deciphering and comprehending complex medical terminology without the reliance on extensive manual research. It serves as an invaluable educational tool, enabling medical students and professionals to expand their medical vocabulary and grasp medical concepts in a more user-friendly manner. Furthermore, the application seeks to improve accessibility of medical terminology for non-medical professionals, such as patients and their families, by simplifying medical language into terms that are easier to understand. Through these efforts, the application strives to bridge the knowledge gap in medical terminology, ensuring that both medical and non-medical individuals can communicate more effectively and with greater confidence.
+
 
 ## How to install dependencies
 
